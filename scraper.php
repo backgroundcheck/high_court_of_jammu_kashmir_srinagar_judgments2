@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 //ASP.Net gives unique credentials when first running a query. Therefore, the script needed to acces the first page
 //is more intensive than the script for all other pages. 
 
